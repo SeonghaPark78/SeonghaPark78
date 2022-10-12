@@ -1,5 +1,5 @@
 ### Hi there 👋
-It is a place to record my works, and this is a small guide to look around this space.
+It is a place to record my works, and the article below is a small guide to look around this space.
 
 - Repository 'Fundamental_Practices' is place to save my previous works about learning basic skills and concepts of AI related fields.
 - Repository 'ML' is place to save my previous works about learning elemental projects about Machine Learing.
